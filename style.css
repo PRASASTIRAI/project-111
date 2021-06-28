@@ -1,0 +1,66 @@
+body
+{
+  font-family: 'Special Elite', cursive;
+  background: #bceb96;
+}
+.header_div
+  {
+  background: white;
+  color: #11ce00; 
+  }
+  .header_div img
+  {
+    width: 100px
+  }
+  .main_div
+  {
+    background:#ccffc7;
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid white;
+  }
+
+  #camera , #result
+{
+  border: 2px dashed rgb(158, 74, 74);
+  width: 310px;
+  height: 300px; 
+  box-shadow: 5px 5px 18px white;    
+
+}
+.footer_div{
+  margin-bottom: 50px;
+}
+
+.footer_div h4 {
+background: rgb(231, 250, 225);
+border-radius: 75px;
+padding: 10px;
+box-shadow:5px 5px 18px #c2f50c;
+
+}
+.footer_div img{
+  width: 70px;;
+}
+
+.copy_right_footer{
+  position:fixed;
+  bottom:0px;
+  color:rgb(64, 67, 252);
+  background: honeydew;
+  border-radius: 5px;
+  font-family: 'Viaoda Libre', cursive;
+  text-align: center;
+  width:100%;
+}
+#microsoft{
+  background: rgb(62, 238, 106);
+height: 20px;
+width: 80px;
+}
+
+#mobile_net{
+  background: rgb(62, 238, 106);
+  height: 20px;
+width: 80px;
+}
